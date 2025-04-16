@@ -1,0 +1,12 @@
+native.cpp
+pcg64.c
+pyproject.toml
+seed_sequence.cpp
+setup.py
+C:/Users/boyso/Downloads/client/build-win/src/native/native.cpp
+C:/Users/boyso/Downloads/client/build-win/src/native/pcg64.c
+native.egg-info/PKG-INFO
+native.egg-info/SOURCES.txt
+native.egg-info/dependency_links.txt
+native.egg-info/requires.txt
+native.egg-info/top_level.txt
